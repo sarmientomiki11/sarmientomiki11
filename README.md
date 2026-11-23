@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>¡Hola! Soy Miki 👋</h1>
+  <h1>¡Hola! Soy Mijael 👋</h1>
   <p><b>Estudiante de Ingeniería de Sistemas | Ciberseguridad & Administración de Bases de Datos</b></p>
   
   <img src="https://komarev.com/ghpvc/?username=sarmientomiki11&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="sarmientomiki11" />
